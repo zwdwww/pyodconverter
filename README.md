@@ -1,3 +1,20 @@
+OFFICE 文档在线预览方案很多：
+
+
+服务器先转换为PDF，再转换为SWF，最后通过网页加载Flash预览，比如flexpaper
+Office文档直接转换为SWF，通过网页加载Flash预览
+微软的Office365
+在浏览器中直接打开
+转换为html
+
+
+今天，我们要用的方案是转换为html来预览。
+————————————————
+版权声明：本文为CSDN博主「一便倾城」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/pjq5181/java/article/details/73483544
+
+
+
 PyODConverter
 =============
 
